@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JPAbyUsingMappinAndCrudRepoSecondaryRef/src/main/webapp/edit.jsp&apos; to &apos;update.jsp&apos;" description="Rename resource &apos;edit.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/edit.jsp" name="update.jsp" stamp="1613469643030" updateReferences="true"/>
+</session>

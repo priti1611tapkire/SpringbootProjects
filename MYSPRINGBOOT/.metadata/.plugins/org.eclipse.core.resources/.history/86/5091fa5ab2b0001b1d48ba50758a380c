@@ -1,0 +1,3 @@
+server.port=8089
+abc.msg=Hello default
+spring.profiles.active=prod

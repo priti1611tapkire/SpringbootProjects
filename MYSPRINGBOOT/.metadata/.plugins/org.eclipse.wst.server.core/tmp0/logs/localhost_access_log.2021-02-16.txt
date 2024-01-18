@@ -1,0 +1,4 @@
+127.0.0.1 - - [16/Feb/2021:11:40:56 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [16/Feb/2021:11:40:59 +0530] "GET /MavenCrudOperationExample/ HTTP/1.1" 200 318
+0:0:0:0:0:0:0:1 - - [16/Feb/2021:11:41:06 +0530] "GET /MavenCrudOperationExample/register HTTP/1.1" 200 469
+0:0:0:0:0:0:0:1 - - [16/Feb/2021:11:41:35 +0530] "GET /MavenCrudOperationExample/reg?eid=1&name=Priti&addr=Abad&uname=prit&pass=prit&ok=Submit+Query HTTP/1.1" 500 15572

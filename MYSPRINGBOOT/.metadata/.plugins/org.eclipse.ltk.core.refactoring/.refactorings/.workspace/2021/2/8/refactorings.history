@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JPAbyUsingCrudRepositorySecondCrud&apos; to &apos;JPAbyUsingCrudRepositorySecondaryRefreance&apos;" description="Rename resource &apos;JPAbyUsingCrudRepositorySecondCrud&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/JPAbyUsingCrudRepositorySecondCrud" name="JPAbyUsingCrudRepositorySecondaryRefreance" stamp="1613455728907" updateReferences="true"/>
+</session>
